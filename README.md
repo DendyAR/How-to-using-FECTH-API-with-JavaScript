@@ -6,5 +6,13 @@
 1.menggunakan tag `html` sebagai pembungkus UI untuk menampilkan data nya
 <!-- ol -->
 2.menggunakan Template `Boostrap` sebagai tampilanya 
+<!-- ol -->
+3.membuat tombol `button` dengan `id` `btn`
+<!-- ol -->
+4.membuat `table` dengan `id` `tableDiv`
+<!-- ol -->
+5.mengambil data `API` menggunakan `promise`
 
-![Logo]()
+Seperti yang di lihat di bawah ini, adalah hasil dari code yang telah saya buat dengan mengimplementasikan kedalam web server
+
+![Tugas1UI](https://user-images.githubusercontent.com/49724910/106430728-cbb24380-649e-11eb-9c04-e5196092adfc.PNG)
